@@ -4,7 +4,7 @@ This repo has all the stuff i've been working on for web security and exploit de
 
 ## Contents
 
-### **1. Python (🐍)**
+### **1. [Python](https://github.com/ahmetartuc/OSWE/Python) (🐍)**
 - **Web Security & Exploit Development:**
   - `port-scanner.py`: A basic port scanner.
   - `web-scraper.py`: A web scraping script.
