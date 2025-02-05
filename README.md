@@ -30,7 +30,7 @@ This repo has all the stuff i've been working on for web security and exploit de
   - `ssrf-command-injection.js`: SSRF and Command Injection vulnerabilities.
   - `code-review-report.md`: Node.js code review report.
 
-### **5. [C#](https://github.com/ahmetartuc/OSWE/C#) (.NET) (#️⃣)**
+### **5. [C#](https://github.com/ahmetartuc/OSWE/C#) (#️⃣)**
 - **Microsoft Ecosystem & Exploit Development:**
   - `asp-net-login-vuln`: ASP.NET application containing ViewState Manipulation and Authentication Bypass.
   - `csharp-deserialization-exploit.cs`: C# deserialization exploit example.
