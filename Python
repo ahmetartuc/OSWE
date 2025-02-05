@@ -1,10 +1,1 @@
-### **1. [Python (🐍)](Python/)**
-- **Python Görseli:**
-  ![Python Görseli](https://github.com/yourusername/oswe-prep/blob/main/oswe/python/python_image.png?raw=true)
-
-- **Web Güvenliği & Exploit Geliştirme:**
-  - `port-scanner.py`: Temel port tarayıcı.
-  - `web-scraper.py`: Web scraping betiği.
-  - `sql-injection.py`: SQL Injection istismarı.
-  - `rce-exploit.py`: Remote Code Execution exploit örneği.
-  - `ssh-brute-force.py`: SSH brute force aracı.
+# Under Cons
