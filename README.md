@@ -5,7 +5,7 @@ This repo has all the stuff i've been working on for web security and exploit de
 
 ## Contents
 
-### **1. [Python](https://github.com/ahmetartuc/OSWE/blob/main/Python/Python.md) (🐍)**
+### **1. [Python](https://github.com/ahmetartuc/OSWE/blob/main/Python/) (🐍)**
 - **Web Security & Exploit Development:**
   - [`login_manager.py`](https://github.com/ahmetartuc/OSWE/blob/main/Python/)
   - `port-scanner.py`
