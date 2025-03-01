@@ -7,13 +7,12 @@ This repo has all the stuff i've been working on for web security and exploit de
 
 ### **1. [Python](https://github.com/ahmetartuc/OSWE/blob/main/Python/Python.md) (🐍)**
 - **Web Security & Exploit Development:**
-  - `User Login & File Registration System`:
-  
-  - `port-scanner.py`: A basic port scanner.
-  - `web-scraper.py`: A web scraping script.
-  - `sql-injection.py`: SQL Injection exploitation example.
-  - `rce-exploit.py`: Remote Code Execution exploit example.
-  - `ssh-brute-force.py`: SSH brute force attack tool.
+  - [`login_manager.py`](https://github.com/ahmetartuc/OSWE/blob/main/Python/Python.md)
+  - `port-scanner.py`
+  - `web-scraper.py`:
+  - `sql-injection.py`
+  - `rce-exploit.py`
+  - `ssh-brute-force.py`
   
 ### **2. [PHP](https://github.com/ahmetartuc/OSWE/PHP) (🐘)**
 - **Legacy Web Applications & Vulnerabilities:**
