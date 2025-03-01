@@ -2,10 +2,10 @@
 
 def user_login():
     print("User Login System")
-    print("1. Log In")
+    print("1. Login")
     print("2. Register")
     
-    choice = input("Select an option (1/2): ")
+    choice = input("Select an option 1 or 2): ")
 
     if choice == "1":
         log_in()
@@ -34,7 +34,7 @@ def log_in():
     password = input("Password: ")
 
     with open("users.txt", "r") as file:
-        users = file.readlines()  # Read all lines
+        users = file.readlines()  # Reads all lines
 
     for user in users:
         saved_username, saved_password = user.strip().split(" ")
