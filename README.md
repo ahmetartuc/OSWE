@@ -1,7 +1,7 @@
 # Offensive Security Web Expert (OSWE) Study Sheet 🕷️
-## *** Entirely AI-Generated ***
+## *!* Entirely AI-Generated *!*
 
-This repo has all the stuff i've been working on for web security and exploit dev while prepping for my OSWE exam. It's got scripts in **Python**, **PHP**, **Java**, **Node.js** and **C#** that i’ve made to find and exploit vulnerabilities. I created this to keep track of my progress and help out others who are also diving into web app security.
+This repo is all about my hustle for the OSWE, web sec, exploit dev, and all that good stuff. You'll find scripts in **Python**, **PHP**, **Java**, **Node.js** and **C#** that I cooked up to find and exploit vulns. Made this to track my progress and maybe help others diving into web app sec.
 
 ## Contents
 
