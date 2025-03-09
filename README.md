@@ -14,25 +14,25 @@ This repo is all about my hustle for the OSWE, web sec, exploit dev, and all tha
   - `rce-exploit.py`
   - `ssh-brute-force.py`
   
-### **2. [PHP](https://github.com/ahmetartuc/OSWE/PHP) (🐘)**
+### **2. [PHP](https://github.com/ahmetartuc/OSWE/blob/main/PHP) (🐘)**
 - **Legacy Web Applications & Vulnerabilities:**
   - `php-sql-injection.php`
   - `php-file-upload-vuln.php`
   - `php-xss.php`
   
-### **3. [Java](https://github.com/ahmetartuc/OSWE/Java) (☕)**
+### **3. [Java](https://github.com/ahmetartuc/OSWE/blob/main/Java) (☕)**
 - **Enterprise Applications & Security:**
   - `spring-boot-login-vuln`
   - `java-deserialization-exploit.java`
   - `code-review-report.md`
 
-### **4. [Node.js](https://github.com/ahmetartuc/OSWE/Node.js) (🚀)**
+### **4. [Node.js](https://github.com/ahmetartuc/OSWE/blob/main/Node.js) (🚀)**
 - **Modern Web Applications & Security:**
   - `express-js-vuln-app`
   - `ssrf-command-injection.js`
   - `code-review-report.md`
 
-### **5. [C#](https://github.com/ahmetartuc/OSWE/C#) (#️⃣)**
+### **5. [C#](https://github.com/ahmetartuc/OSWE/blob/main/C#) (#️⃣)**
 - **Microsoft Ecosystem & Exploit Development:**
   - `asp-net-login-vuln`
   - `csharp-deserialization-exploit.cs`
