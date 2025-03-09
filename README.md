@@ -26,7 +26,7 @@ This repo is all about my hustle for the OSWE, web sec, exploit dev, and all tha
   - `java-deserialization-exploit.java`
   - `code-review-report.md`
 
-### **4. [Node.js](https://github.com/ahmetartuc/OSWE/blob/main/Node.js) (🚀)**
+### **4. [Node.js](https://github.com/ahmetartuc/OSWE/blob/main/node.js) (🚀)**
 - **Modern Web Applications & Security:**
   - `express-js-vuln-app`
   - `ssrf-command-injection.js`
