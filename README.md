@@ -38,12 +38,8 @@ This repo is all about my hustle for the OSWE, web sec, exploit dev, and all tha
   - `csharp-deserialization-exploit.cs`
   - `code-review-report.md`
 
-## Goal
-
-This repo is all about diving deep into **exploit development**, **finding vulnerabilities** and **web app testing** while prepping for OSWE. I’ve been focusing on vulnerabilities in projects written in **Python**, **PHP**, **Java**, **Node.js** and **C#** with the goal of building security tools and exploiting common flaws.
-
 ## Contributing
 
-Feel free to jump in if you’ve got any suggestions or improvements!!! If you run into any issues or have questions just drop an issue in the **Issues** section.
+If you have any suggestions or improvements, feel free to contribute. If you run into any issues or have questions, just drop them in the **Issues** section.
 
-# Good luck, you got this!!
+# Break stuff, learn stuff!
