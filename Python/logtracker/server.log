@@ -1,0 +1,6 @@
+2025-03-08 10:00:01 - INFO: Server started.  
+2025-03-08 10:05:23 - ERROR: Unable to connect to the database! Source: 192.168.1.10  
+2025-03-08 10:10:45 - WARNING: High CPU usage detected.  
+2025-03-08 10:15:59 - INFO: User logged in: admin, IP: 172.16.0.5  
+2025-03-08 10:30:12 - ERROR: Insufficient disk space! Source: 10.0.0.25  
+2025-03-08 10:45:00 - WARNING: Low memory warning.
