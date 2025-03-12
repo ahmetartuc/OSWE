@@ -1,7 +1,6 @@
-INFO 2025-03-12 10:15:32 - System successfully started.
-WARNING 2025-03-12 10:16:45 - High memory usage!
-ERROR 2025-03-12 10:17:12 - Database connection failed!
-INFO 2025-03-12 10:18:05 - New user login: admin
-ERROR 2025-03-12 10:19:30 - Unauthorized access detected!
-WARNING 2025-03-12 10:20:11 - Disk usage level critical!
-INFO 2025-03-12 10:21:50 - System health checked.
+[2025-03-12 12:00:01] INFO - New connection: 192.168.1.10  
+[2025-03-12 12:01:15] ERROR - 403 Forbidden - IP: 172.16.0.5  
+[2025-03-12 12:02:30] WARNING - High CPU usage detected.  
+[2025-03-12 12:05:42] INFO - User logged in: admin  
+[2025-03-12 12:06:50] ERROR - 500 Internal Server Error - IP: 10.0.0.25  
+[2025-03-12 12:10:22] INFO - New connection: 8.8.8.8  
