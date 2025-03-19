@@ -9,7 +9,7 @@ This repo is all about my hustle for the OSWE, web sec, exploit dev and all that
 - **Web Security & Exploit Development:**
   - [`login_manager.py`](https://github.com/ahmetartuc/OSWE/blob/main/Python/login_manager.py)
   - [`logtracker`](https://github.com/ahmetartuc/OSWE/tree/main/Python/logtracker)
-  - `sql-injection.py`
+  - [`sqlhunter.py`](https://github.com/ahmetartuc/OSWE/tree/main/Python/sqlhunter.py)
   - `rce-exploit.py`
   - `ssh-brute-force.py`
   
