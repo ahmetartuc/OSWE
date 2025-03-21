@@ -11,7 +11,10 @@ This repo is all about my hustle for the OSWE, web sec, exploit dev and all that
   - [`logtracker`](https://github.com/ahmetartuc/OSWE/tree/main/Python/logtracker)
   - [`sqlhunter.py`](https://github.com/ahmetartuc/OSWE/tree/main/Python/sqlhunter.py)
   - [`xsshunter.py`](https://github.com/ahmetartuc/OSWE/tree/main/Python/xsshunter.py)
-  - `ssh-brute-force.py`
+  - [`sstihunter.py`](https://github.com/ahmetartuc/OSWE/tree/main/Python/sstihunter.py)
+  - `example.py`
+  - `exampl€.py`
+
   
 ### **2. [PHP](https://github.com/ahmetartuc/OSWE/blob/main/PHP) (🐘)**
 - **Legacy Web Applications & Vulnerabilities:**
