@@ -5,6 +5,7 @@ This repo is all about my hustle for the OSWE, web sec, exploit dev and all that
 
 ## Contents
 
+### I’ll go all in on this part!
 
 ## Contributing
 
