@@ -12,7 +12,7 @@ The focus is not just on exploitation, but on **automating the entire process**,
     <td valign="top">
       <h4>Linux Boxes</h4>
       <ul>
-        <li><a href="https://github.com/repo/Vault">Vault</a></li>
+        <li><a href="https://github.com/ahmetartuc/OSWE/tree/main/HTB-TJNULL-PREP/Vault">Vault</a></li>
         <li>Popcorn</li>
         <li>Celestial</li>
         <li>Blocky</li>
