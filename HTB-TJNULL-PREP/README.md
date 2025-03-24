@@ -10,7 +10,7 @@ The focus is not just on exploitation, but on **automating the entire process**,
 <table>
   <tr>
     <td valign="top">
-      <h4>🐧 Linux Boxes</h4>
+      <h4>Linux Boxes</h4>
       <ul>
         <li>Vault</li>
         <li>Popcorn</li>
@@ -36,7 +36,7 @@ The focus is not just on exploitation, but on **automating the entire process**,
       </ul>
     </td>
     <td valign="top">
-      <h4>🪟 Windows Boxes</h4>
+      <h4>Windows Boxes</h4>
       <ul>
         <li>JSON</li>
         <li>Arkham</li>
