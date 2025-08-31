@@ -3,8 +3,7 @@
 This repo is all about my hustle for the OSWE, web security, exploit development and all that good stuff. I put it together to track my progress and maybe help others getting into web app security.
 
 ## Contents
-
-### I’ll go all in on this part!
+### ███▒▒▒▒▒▒▒ 30%
 
 ## Contributing
 
