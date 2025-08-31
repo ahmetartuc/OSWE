@@ -1,6 +1,6 @@
 # Offensive Security Web Expert (OSWE) Study Sheet  🕸️ 
 
-This repo is all about my hustle for the OSWE, web security, exploit development and all that good stuff. I put it together to track my progress and maybe help others getting into web app security.
+Just my OSWE hustle in here. Maybe it helps someone else on the same ride.
 
 ## Contents
 ### ███▒▒▒▒▒▒▒ 30%
