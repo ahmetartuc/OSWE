@@ -1,8 +1,4 @@
-# OSWE Prep Lab List
-
-The following labs will be used to prep for the **OSWE (Offensive Security Web Expert)** exam.  
-
----
+# GitHub & VulnHub Labs
 
 ## GitHub Labs
 
