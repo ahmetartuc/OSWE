@@ -33,8 +33,6 @@ This tool converts `curl` commands into code for many programming languages incl
 2. Right-click a request → **Copy as cURL**
 3. Paste into curlconverter
 
-### ⚠ WARNING ⚠ : Be careful when sharing `curl` with cookies or tokens. It's like sharing your session.
-
 ---
 
 ## Related Tools for go
