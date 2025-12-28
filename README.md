@@ -7,7 +7,7 @@ Just my OSWE hustle in here. Maybe it helps someone else on the same ride.
 
 ## Contributing
 
-If you have any suggestions or improvements, feel free to contribute. If you run into any issues or have questions, just drop them in the **Issues** section.
+If you have any suggestions or improvements, feel free to contribute.
 
 ## Break stuff, learn stuff!
 
